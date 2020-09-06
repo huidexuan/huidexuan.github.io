@@ -1,0 +1,40 @@
+body{margin:0%;}
+.date { color: rgb(100,100,100); }
+#smusic {
+    position:fixed;
+    width:100%;
+    left:0%;
+    bottom:0%;
+    margin:auto;
+    height:105px;
+    bottom:0%;
+    z-index:11000;
+}
+#smusic-shadow {
+    height:105px;
+}
+#bottom-empty-box {
+    height:30px;
+}
+.my-div { margin:5%; }
+img{margin:0%;width:100%;object-fit:cover;}
+
+h1{font-size:210%;}
+h2{font-size:180%;}
+h3{font-size:150%;}
+p{font-size:150%;}
+.my-select{ font-size:100%; }
+
+
+a:link {color:#0000FF;}
+a:visited {color:#0000FF;}
+a:hover {color:#0000FF;}
+a:active {color:#0000FF;}
+
+html,button,input,select,textarea {
+    font-family: sans-serif;
+}
+pre,code,kbd,samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+}

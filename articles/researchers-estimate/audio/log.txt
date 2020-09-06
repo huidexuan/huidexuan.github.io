@@ -1,0 +1,14 @@
+已设定自己比该主持人低2个key
+1.mp3是降了4个key
+2.mp3是降了3个key
+3.mp3是降了2个key
+4.mp3是降了1个key
+5.mp3是原key
+6.mp3是升了1个key
+7.mp3是升了2个key
+8.mp3是升了3个key
+9.mp3是升了4个key
+10.mp3是升了5个key
+11.mp3是升了6个key
+12.mp3是升了7个key
+

@@ -1,0 +1,18 @@
+| 0 |    0 | Scientists                |
+| 0 |  9.5 | The researchers made      |
+| 0 | 27.0 | The researchers reported  |
+| 0 | 35.5 | The most                  |
+| 0 | 58.0 | The researchers said      |
+| 1 | 34.0 | Some areas                |
+| 1 | 56.0 | We have                   |
+| 2 | 18.0 | Tierney helped            |
+| 2 | 28.5 | Tierney said              |
+| 2 | 53.8 | During the Ice Age        |
+| 3 | 13.5 | Early humans entered      |
+| 3 | 31.3 | What is interesting       |
+| 4 |  3.0 | Human hunting             |
+| 4 | 14.0 | Atmospheric carbon        |
+| 4 | 42.5 | The researchers announced |
+| 4 | 54.0 | If we can                 |
+| 5 | 21.5 | END                       |
+
